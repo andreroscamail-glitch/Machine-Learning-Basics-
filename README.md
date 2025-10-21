@@ -10,11 +10,11 @@ These are the models we will face, with their relative applications:
  - Classification:
     - binomial
     - multinomial
-    - 
+    - non-parametric
  - 
 
 
-## Project structure
+## Project structure 📑
 Each one of the models will be explored in a dedicated project; every project will follow the same structure, defined in proj_example
 
 ## Warning ⚠️

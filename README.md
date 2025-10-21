@@ -4,7 +4,7 @@ In this repository we will go through main and basic machine learning applicatio
 ## Guide
 These are the models we will face, with their relative applications:
 - Supervised Models:
- - Regression:
+  - Regression:
     - linear
     - Polynomial
     - logistic

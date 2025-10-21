@@ -3,6 +3,9 @@ In this repository we will go through main machine learning concepts using proje
 
 ## Guide
 These are the topics we will face, with their relative subtopics:
- - jasndjks
- - kasjdnakjsnd
- - sadjkns
+ - Regression:
+    - linear
+    - Polynomial
+    - logistic
+ - 
+ - s

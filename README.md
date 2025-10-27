@@ -1,4 +1,4 @@
-# Machine Learning Basics 🤓💻
+# Machine Learning guide 🤓💻
 In this repository we will go through main and basic machine learning constructs and applications using projects, examples, important math theory (we love math ❤️) and a lot of creativity!!
 
 ## Guide
